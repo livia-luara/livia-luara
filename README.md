@@ -16,6 +16,10 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por games e dado
 
 ![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=purple)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=purple)
+
+![ApacheCassandra](https://img.shields.io/badge/cassandra-100000?style=for-the-badge&logo=apache-cassandra&logoColor=purple)
+
 ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=purple)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=purple)
